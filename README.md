@@ -1,6 +1,6 @@
-# my-project
+# *My-wordbook*
 
-> demo
+> Engineering my word book
 
 ## Build Setup
 
